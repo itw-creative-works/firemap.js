@@ -21,7 +21,7 @@
   <a href="https://itwcreativeworks.com">Site</a> | <a href="https://www.npmjs.com/package/firemap.js">NPM Module</a> | <a href="https://github.com/itw-creative-works/firemap.js">GitHub Repo</a>
   <br>
   <br>
-  <strong>firemap.js</strong> is the official npm module of <a href="https://itwcreativeworks.com">Firemap.js</a>, a free app for Easily create heatmaps in Node.js and the Browser.
+  <strong>firemap.js</strong> is the official npm module of <a href="https://itwcreativeworks.com">Firemap.js</a>, a free app for easily creating heatmaps in Node.js and the Browser.
   <br>
   <br>
   <img src="https://media.giphy.com/media/KX5wlmzJ10uCLIOk4j/giphy.gif">

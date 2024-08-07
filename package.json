@@ -1,7 +1,6 @@
 {
-  "TODO": "itwcreativeworks.com, firemap.js, firemap.js, itw-creative-works, Firemap.js, Firemap, The best way to create Heatmaps for any data, Easily create heatmaps in Node.js and the Browser",
   "name": "firemap.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The best way to create Heatmaps for any data",
   "main": "./dist/index.js",
   "scripts": {
