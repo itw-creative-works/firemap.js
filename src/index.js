@@ -211,10 +211,19 @@
   };
 
   // Resize Canvas Prototype
-  Firemap.prototype.resize = function () {
+  Firemap.prototype.resize = function (options) {
     var self = this;
 
+    // Set options
+    options = options || {};
+    options.width = options.width || self._width;
+    options.height = options.height || self._height;
+
     // Resize the canvas
+    self._canvas.width = options.width;
+    self._canvas.height = options.height;
+
+    // Update the internal width and height
     self._width = self._canvas.width;
     self._height = self._canvas.height;
 
