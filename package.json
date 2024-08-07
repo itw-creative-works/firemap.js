@@ -1,6 +1,6 @@
 {
   "name": "firemap.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The best way to create Heatmaps for any data",
   "main": "./dist/index.js",
   "scripts": {

@@ -42,7 +42,11 @@ You can use so much of `firemap.js` for free, but if you want to do some advance
 ### Option 1: Install via npm
 Install with npm if you plan to use `firemap.js` in a Node project or in the browser.
 ```shell
+# Install the package
 npm install firemap.js
+
+# Rebuild native modules (this module uses 'canvas', which is a native module)
+npm rebuild
 ```
 If you plan to use `firemap.js` in a browser environment, you will probably need to use [Webpack](https://www.npmjs.com/package/webpack), [Browserify](https://www.npmjs.com/package/browserify), or a similar service to compile it.
 
