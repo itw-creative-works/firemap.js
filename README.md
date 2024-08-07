@@ -169,7 +169,10 @@ firemap.clear();
 ### Resizing the Canvas
 You can resize the canvas of the heatmap.
 ```js
-firemap.resize();
+firemap.resize({
+  // Set the new size of the heatmap
+  width: 2000, height: 2000,
+});
 ```
 
 ### Setting Background Image
